@@ -1,0 +1,37 @@
+[
+    {
+        "product_id": "P001",
+        "product_name": "Widget",
+        "category": "Gadgets",
+        "price": 20.00,
+        "availability": "in stock"
+    },
+    {
+        "product_id": "P002",
+        "product_name": "Gizmo",
+        "category": "Gadgets",
+        "price": 25.00,
+        "availability": "in stock"
+    },
+    {
+        "product_id": "P003",
+        "product_name": "Thingamajig",
+        "category": "Tools",
+        "price": 15.00,
+        "availability": "out of stock"
+    },
+    {
+        "product_id": "P004",
+        "product_name": "Doohickey",
+        "category": "Tools",
+        "price": 40.00,
+        "availability": "in stock"
+    },
+    {
+        "product_id": "P005",
+        "product_name": "Contraption",
+        "category": "Gadgets",
+        "price": 30.00,
+        "availability": "in stock"
+    }
+]
